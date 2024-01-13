@@ -17,7 +17,8 @@ Welcome to Wanderlust, your go-to destination for a seamless travel experience! 
 - **Responsive Frontend:** The frontend is crafted with HTML, CSS, and JavaScript to provide an intuitive and responsive user interface, accessible on various devices.
 
 
-##Video
+## Video
+
 https://github.com/Lakshya-KP/Wanderlust/assets/93339878/1409965f-a332-4e91-844f-85b8d7d230c0
 
 
